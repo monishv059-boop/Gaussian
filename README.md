@@ -52,6 +52,7 @@ RegisterNumber: 212225220066
 
 ## Output:
 ![gaussian elimination]()
+<img width="843" height="447" alt="image" src="https://github.com/user-attachments/assets/42e7927a-e1a2-45c4-8671-6c7becd102b1" />
 
 
 ## Result:
